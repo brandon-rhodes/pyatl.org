@@ -6,7 +6,7 @@ html, body {
 
 .round {
     margin-top: 20px;
-    border: 0px solid black;
+    border-bottom: 2px solid #9f7233;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     background-color: white;
