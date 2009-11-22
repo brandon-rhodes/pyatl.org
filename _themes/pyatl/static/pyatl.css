@@ -1,2 +1,26 @@
 
-body {  }
+html, body {
+    background-color: #cc9342;
+}
+
+div#banner, div#main, div#sidebar { /* the round containers themselves */
+    margin-top: 20px;
+    border: 0px solid black;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+}
+
+div#banner {
+    height: 120px;
+}
+img#skyline {
+    float: left;
+    margin-left: 20px;
+}
+div#banner p {
+    text-align: center;
+    font-size: 18pt;
+}
+

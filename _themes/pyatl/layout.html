@@ -10,19 +10,28 @@
     <div id="doc" class="yui-t2">
       <div id="hd">
 
-        <img src="http://www.python.org/community/logos/python-logo.png" />
-        <br/>
-        The Atlanta User's Group
-        <img src="http://farm1.static.flickr.com/123/355135172_1c54f996bb_m.jpg" />
+        <div id="banner">
+          <img id="skyline"
+               src="http://farm1.static.flickr.com/123/355135172_1c54f996bb_m.jpg"
+               />
+          <p>
+            <img id="pythonlogo"
+                 src="http://www.python.org/community/logos/python-logo.png" />
+            <br/>
+            Atlanta User's Group
+          </p>
 
+        </div>
       </div>
       <div id="bd">
 	<div id="yui-main">
 	  <div class="yui-b"><div class="yui-g">
 
 	      <!-- YOUR DATA GOES HERE -->
-              {% block content %}
-              {% endblock %}
+              <div id="main">
+                {% block content %}
+                {% endblock %}
+              </div>
 
 	    </div>
 	  </div>
@@ -30,6 +39,11 @@
 	<div class="yui-b">
 
           <!-- YOUR NAVIGATION GOES HERE -->
+          <div id="sidebar">
+            <img id="meetup"
+                 src="http://img2.meetupstatic.com/04199747090604847485/img/logo_82.png"
+                 />
+          </div>
 
         </div>
       </div>
