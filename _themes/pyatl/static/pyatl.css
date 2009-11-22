@@ -58,6 +58,7 @@ div#main {
 div#main h1 {
     margin-top: 16pt;
     margin-bottom: 8pt;
+    border-top: 3px solid #740;
     color: #740;
     font-size: 18pt;
     font-weight: bold;
