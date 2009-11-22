@@ -1,18 +1,22 @@
-
 html, body {
     background-color: #cc9342;
 }
 
-.round { /* the round containers themselves */
+/* A consistent look for round containers */
+
+.round {
     margin-top: 20px;
     border: 0px solid black;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     background-color: white;
-    padding: 10px;
+    padding: 25px 10px;
 }
 
+/* Banner on top */
+
 div#banner {
+    padding: 10px; /* override 25px top and bottom */
     height: 120px;
 }
 img#skyline {
@@ -23,13 +27,62 @@ div#banner p {
     text-align: center;
     font-size: 18pt;
 }
+
+/* Sidebar on left */
+
 .meetup {
     text-align: center;
 }
 #sidebar h2 {
+    color: #740;
     font-weight: bold;
+    font-size: 1.1em;
     margin-bottom: 12px;
 }
 #sidebar p {
     margin-bottom: 8px;
+}
+#disclaimers {
+    margin-top: 18px;
+}
+
+/* Main */
+
+div#main {
+    font-size: 11pt;
+    padding: 30px;
+}
+div#main h1 {
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+    color: #740;
+    font-size: 18pt;
+    font-weight: bold;
+}
+div#main h2 {
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+    font-weight: bold;
+}
+div#main ul {
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+}
+div#main li {
+    list-style-type: disc;
+    margin-left: 1.5em;
+}
+div#main blockquote {
+    margin-left: 1.5em;
+}
+
+a.headerlink { color: white; text-decoration: none; }
+
+/* Footer */
+
+#disclaimers a {
+    color: black;
+}
+.center {
+    text-align: center;
 }
