@@ -3,7 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome!
+We are a group for people in the Atlanta area
+who enjoy programming in Python.
+No membership is required to participate,
+we welcome both experienced programmers and absolute beginners alike!
 
 Our 2009 October meet-up
 ========================

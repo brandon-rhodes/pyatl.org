@@ -10,7 +10,7 @@
     <div id="doc" class="yui-t2">
       <div id="hd">
 
-        <div id="banner">
+        <div id="banner" class="round">
           <img id="skyline"
                src="http://farm1.static.flickr.com/123/355135172_1c54f996bb_m.jpg"
                />
@@ -18,7 +18,7 @@
             <img id="pythonlogo"
                  src="http://www.python.org/community/logos/python-logo.png" />
             <br/>
-            Atlanta User's Group
+            Atlanta Users Group
           </p>
 
         </div>
@@ -28,7 +28,7 @@
 	  <div class="yui-b"><div class="yui-g">
 
 	      <!-- YOUR DATA GOES HERE -->
-              <div id="main">
+              <div id="main" class="round">
                 {% block content %}
                 {% endblock %}
               </div>
@@ -36,13 +36,21 @@
 	    </div>
 	  </div>
 	</div>
-	<div class="yui-b">
+	<div class="yui-b" id="sidebar">
 
           <!-- YOUR NAVIGATION GOES HERE -->
-          <div id="sidebar">
-            <img id="meetup"
-                 src="http://img2.meetupstatic.com/04199747090604847485/img/logo_82.png"
-                 />
+          <div class="round meetup">
+            <h2>Meetings and Events</h2>
+            <p>
+              We normally meet on the second Thursday of each month
+              at 7:30pm.
+            </p>
+            <a href="http://www.meetup.com/python-atlanta/">
+              <img id="meetup"
+                   src="http://img2.meetupstatic.com/04199747090604847485/img/logo_82.png"
+                   />
+              <p>Visit our page on Meetup.com</p>
+            </a>
           </div>
 
         </div>
