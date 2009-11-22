@@ -1,11 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+          "http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
+    <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
   </head>
   <body>
-    {% block content %}
-    {% endblock %}
+    <div id="doc" class="yui-t2">
+      <div id="hd">
+
+        <img src="http://www.python.org/community/logos/python-logo.png" />
+        <br/>
+        The Atlanta User's Group
+        <img src="http://farm1.static.flickr.com/123/355135172_1c54f996bb_m.jpg" />
+
+      </div>
+      <div id="bd">
+	<div id="yui-main">
+	  <div class="yui-b"><div class="yui-g">
+
+	      <!-- YOUR DATA GOES HERE -->
+              {% block content %}
+              {% endblock %}
+
+	    </div>
+	  </div>
+	</div>
+	<div class="yui-b">
+
+          <!-- YOUR NAVIGATION GOES HERE -->
+
+        </div>
+      </div>
+      <div id="ft">
+
+        <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/cokak/355135172/">From <a rel="cc:attributionURL" href="http://www.flickr.com/photos/cokak/">cokak's</a> Flickr photostream under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creating Commons license</a></div>
+
+      </div>
+    </div>
   </body>
 </html>

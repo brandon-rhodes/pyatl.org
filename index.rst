@@ -3,10 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=====================================
-PyAtl: the Python Atlanta users group
-=====================================
-
 Welcome!
 
 Our 2009 October meet-up
