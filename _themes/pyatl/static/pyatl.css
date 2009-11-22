@@ -27,6 +27,9 @@ div#banner p {
     text-align: center;
     font-size: 18pt;
 }
+#pythonlogo {
+    padding-top: 6px;
+}
 
 /* Sidebar on left */
 
