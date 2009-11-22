@@ -23,6 +23,9 @@ img#skyline {
     float: left;
     margin-left: 20px;
 }
+table#buttons {
+    float: right;
+}
 div#banner p {
     text-align: center;
     font-size: 18pt;

@@ -14,6 +14,32 @@
           <img id="skyline"
                src="{{ pathto('_static/skyline.jpg', 1) }}"
                />
+          <table id="buttons">
+            <tr>
+              <td>
+                <a href="http://www.linkedin.com/groups?home=&gid=37441&trk=anet_ug_hm">
+                  <img src="{{ pathto('_static/linkedin_small.png', 1) }}" />
+                </a>
+              </td>
+              <td>
+                <a href="http://www.linkedin.com/groups?home=&gid=37441&trk=anet_ug_hm">
+                  LinkedIn
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="http://pyatl.blogspot.com/">
+                  <img src="{{ pathto('_static/rss_small.png', 1) }}" />
+                </a>
+              </td>
+              <td>
+                <a href="http://pyatl.blogspot.com/">
+                  Book Blog
+                </a>
+              </td>
+            </tr>
+          </table>
           <p>
             <img id="pythonlogo"
                  src="{{ pathto('_static/python-logo.png', 1) }}" />
@@ -40,10 +66,21 @@
 
           <!-- YOUR NAVIGATION GOES HERE -->
           <div class="round meetup">
-            <a href="{{ pathto('.', 1) }}"
-               >Home Page</a><br/>
-            <a href="{{ pathto('plone', 1) }}"
-               >Atlanta Plone Group</a>
+            {% if pagename != "index" %}
+            <a href="{{ pathto('.', 1) }}">
+              {% endif %}
+              Home Page
+              {% if pagename != "index" %}
+            </a>
+            {% endif %}
+            <br/>
+            {% if pagename != "plone" %}
+            <a href="{{ pathto('plone', 1) }}">
+              {% endif %}
+              Atlanta Plone Group
+              {% if pagename != "plone" %}
+            </a>
+            {% endif %}
           </div>
 
           <div class="round meetup">
@@ -79,6 +116,7 @@
              xmlns:cc="http://creativecommons.org/ns#"
              about="http://www.flickr.com/photos/cokak/355135172/"
              >
+
           The photograph in the header is from
           <a rel="cc:attributionURL"
              href="http://www.flickr.com/photos/cokak/">cokak's</a>
@@ -86,7 +124,19 @@
           appearing here under a
           <a rel="license"
              href="http://creativecommons.org/licenses/by/2.0/"
-             >Creative Commons license</a>
+             >Creative Commons license</a>.
+
+          <br/>
+
+          The “Chrome” social media icons are thanks to
+          <a rel="cc:attributionURL"
+             href="http://www.chris-wallace.com/2009/05/28/free-social-media-icons-socialize/">Chris Wallace</a>
+          and also appear here under a
+          <a rel="license"
+             href="http://www.chris-wallace.com/licensing/"
+             >Creative Commons license</a>.
+          
+
         </div>
 
       </div>
