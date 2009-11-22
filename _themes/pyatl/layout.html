@@ -40,6 +40,13 @@
 
           <!-- YOUR NAVIGATION GOES HERE -->
           <div class="round meetup">
+            <a href="{{ pathto('.', 1) }}"
+               >Home Page</a><br/>
+            <a href="{{ pathto('plone.html', 1) }}"
+               >Atlanta Plone Group</a>
+          </div>
+
+          <div class="round meetup">
             <h2>Meetings and Events</h2>
             <p>
               We normally meet on the second Thursday of each month
@@ -47,7 +54,7 @@
             </p>
             <a href="http://www.meetup.com/python-atlanta/">
               <img id="meetup"
-                   src="http://img2.meetupstatic.com/04199747090604847485/img/logo_82.png"
+                   src="{{ pathto('_static/meetup.png', 1) }}"
                    />
               <p>Python Atlanta on Meetup.com</p>
             </a>

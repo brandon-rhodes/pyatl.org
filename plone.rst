@@ -1,3 +1,6 @@
+===================
+Atlanta Plone Group
+===================
 
 Plone is a leading Content Management System.
 It is an open-source product

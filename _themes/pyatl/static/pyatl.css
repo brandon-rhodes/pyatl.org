@@ -56,6 +56,13 @@ div#main {
     padding: 30px;
 }
 div#main h1 {
+    margin-bottom: 0.7em;
+    color: #740;
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bold;
+}
+div#main h2 {
     margin-top: 16pt;
     margin-bottom: 8pt;
     border-top: 3px solid #740;
@@ -63,7 +70,7 @@ div#main h1 {
     font-size: 18pt;
     font-weight: bold;
 }
-div#main h2 {
+div#main h3 {
     margin-top: 8pt;
     margin-bottom: 8pt;
     font-weight: bold;
@@ -78,6 +85,10 @@ div#main li {
 }
 div#main blockquote {
     margin-left: 1.5em;
+}
+div#main p {
+    margin-top: 11pt;
+    margin-bottom: 11pt;
 }
 
 a.headerlink { color: white; text-decoration: none; }
