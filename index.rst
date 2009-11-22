@@ -56,6 +56,56 @@ Chris Heisel: Gearman and Django
  Its Python API is designed
  so that typical operations require only a line or two of code.
 
+2009 July meeting
+=================
+
+Brandon Craig Rhodes: Documentation with Sphinx
+-----------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2401788>`_
+* `Slides (PDF) <http://rhodesmill.org/brandon/static/2009/sphinx.pdf>`_
+
+Skylar Saveland: Pinax and Django
+---------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2391457>`_
+
+2009 June meeting
+=================
+
+Brandon Craig Rhodes: TurboGears 2 + Plone + contentmirror
+----------------------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2239406>`_
+
+Rick Tomas: Google Wave
+-----------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2238118>`_
+
+Sim Harbert: Python Scripting on the Android
+--------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2235811>`_
+
+Brandon Craig Rhodes: Nuts & Bolts, ctypes
+------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2235275>`_
+
+2009 May meeting
+================
+
+Alfredo Deza: Testing and Test Coverage with Nose
+-------------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2225152>`_
+
+Brandon Craig Rhodes: Introduction to PyCon filming
+---------------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2221463>`_
+
 2009 January meeting
 ====================
 
