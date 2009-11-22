@@ -33,6 +33,14 @@ div#banner p {
 #pythonlogo {
     padding-top: 6px;
 }
+div#banner a {
+    color: #740;
+    font-weight: bold;
+    text-decoration: none;
+}
+div#banner a:hover {
+    text-decoration: underline;
+}
 
 /* Sidebar on left */
 
@@ -68,9 +76,12 @@ div#main h1 {
 div#main h2 {
     margin-top: 16pt;
     margin-bottom: 8pt;
-    border-top: 3px solid #740;
-    color: #740;
-    font-size: 18pt;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #740;
+    color: white;
+    text-align: center;
+    font-size: 14pt;
     font-weight: bold;
 }
 div#main h3 {
@@ -95,6 +106,7 @@ div#main p {
 }
 
 a.headerlink { color: white; text-decoration: none; }
+h2 a.headerlink { color: #740; text-decoration: none; }
 
 /* Footer */
 
