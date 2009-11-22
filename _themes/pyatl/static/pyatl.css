@@ -5,7 +5,7 @@ html, body {
 /* A consistent look for round containers */
 
 .round {
-    margin-top: 20px;
+    margin-top: 13px;
     border-bottom: 2px solid #9f7233;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
