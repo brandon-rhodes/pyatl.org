@@ -32,6 +32,7 @@ Zellyn Hunter: Django at the Atlanta-Journal Constitution
 ---------------------------------------------------------
 
 * `Video of talk (blip.tv) <http://blip.tv/file/2805912>`_
+* `Slides (SlideShare) <http://www.slideshare.net/zellyn/django-at-the-ajc>`_
 
  How is Python used on the busy web site of a major newspaper,
  where the information to build the front page
