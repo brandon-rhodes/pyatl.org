@@ -44,6 +44,12 @@ div#banner a:hover {
 
 /* Sidebar on left */
 
+.pagelist {
+    font-weight: bold;
+}
+.pagelist h2 {
+    text-align: center;
+}
 .meetup {
     text-align: center;
 }

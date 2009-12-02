@@ -68,7 +68,7 @@
           <div class="round meetup">
             <p>
               <a href="http://us.pycon.org/">
-                <img src="file:///home/brandon/pycon-2010-banner.png"/>
+                <img src="{{ pathto('_static/pycon-2010-banner.png', 1) }}" />
               </a>
             </p>
             <p>
@@ -76,7 +76,9 @@
             </p>
           </div>
 
-          <div class="round meetup">
+          <div class="round pagelist">
+            <h2>Navigation</h2>
+            &#9656;
             {% if pagename != "index" %}
             <a href="{{ pathto('.', 1) }}">
               {% endif %}
@@ -85,6 +87,7 @@
             </a>
             {% endif %}
             <br/>
+            &#9656;
             {% if pagename != "plone" %}
             <a href="{{ pathto('plone', 1) }}">
               {% endif %}
