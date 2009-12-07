@@ -11,6 +11,22 @@ Collected below are videos and slides from past meetings.
 We have only occasionally had recording equipment available
 through our history, so many meetings are not even listed here.
 
+2009 November meeting
+=====================
+
+Brandon Rhodes: Less Famous Data Structures in Python
+-----------------------------------------------------
+
+* `Video of talk (blip.tv) <http://blip.tv/file/2940638>`_
+
+ Python has lots of data structures
+ besides the general-purpose tuple, list, and dictionary.
+ This talk introduces more than a half-dozen more data structures
+ that come built-in as part of Python's "batteries included"
+ standard library,
+ and outlines what they are good at
+ and in what situations you might be able to make good use of them.
+
 2009 October meeting
 ====================
 
