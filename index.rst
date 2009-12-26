@@ -34,3 +34,4 @@ Other Information
    :maxdepth: 1
 
    meetings/index
+   bookclub
