@@ -11,8 +11,8 @@ Collected below are videos and slides from past meetings.
 We have only occasionally had recording equipment available
 through our history, so many meetings are not even listed here.
 
-Our Last Meeting: 2009 November
-===============================
+Our Most Recent Meeting: 2009 November
+======================================
 
 Brandon Rhodes: Less Famous Data Structures in Python
 -----------------------------------------------------
