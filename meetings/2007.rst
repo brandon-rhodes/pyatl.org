@@ -1,0 +1,11 @@
+======
+ 2007
+======
+
+December
+========
+
+* Visiting speakers `Tres Seaver <http://www.palladion.com/>`_
+  and `Chris McDonough <http://www.plope.com/>`_
+* `Video of talk (Google video) <http://video.google.com/videoplay?docid=-3276625123051018943>`_
+* `Slides (PDF) <http://static.repoze.org/pyatl-slides.pdf>`_
