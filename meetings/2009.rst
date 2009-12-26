@@ -8,7 +8,7 @@ October
 Keyton Weissinger: Adding Excel-based Import and Export to Django
 -----------------------------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2794179>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2794179>`__
 
  When users need to upload and download lots of raw data
  from your Django web application,
@@ -22,8 +22,8 @@ Keyton Weissinger: Adding Excel-based Import and Export to Django
 Zellyn Hunter: Django at the Atlanta-Journal Constitution
 ---------------------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2805912>`_
-* `Slides (SlideShare) <http://www.slideshare.net/zellyn/django-at-the-ajc>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2805912>`__
+* `Slides (SlideShare) <http://www.slideshare.net/zellyn/django-at-the-ajc>`__
 
  How is Python used on the busy web site of a major newspaper,
  where the information to build the front page
@@ -35,8 +35,8 @@ Zellyn Hunter: Django at the Atlanta-Journal Constitution
 Chris Heisel: Gearman and Django
 --------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2806533/>`_
-* `Slides (PDF) <_static/heisel-gearman-djangocon.pdf>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2806533/>`__
+* `Slides (PDF) <_static/heisel-gearman-djangocon.pdf>`__
 
  Finally, Chris Heisel treated us
  to an encore of the lightning talk
@@ -54,36 +54,36 @@ July
 Brandon Craig Rhodes: Documentation with Sphinx
 -----------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2401788>`_
-* `Slides (PDF) <http://rhodesmill.org/brandon/static/2009/sphinx.pdf>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2401788>`__
+* `Slides (PDF) <http://rhodesmill.org/brandon/static/2009/sphinx.pdf>`__
 
 Skylar Saveland: Pinax and Django
 ---------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2391457>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2391457>`__
 
 June
 ====
 
-Brandon Craig Rhodes: TurboGears 2 + Plone + contentmirror
+Brandon Craig Rhodes: TurboGears 2 + Plone + contentmirror
 ----------------------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2239406>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2239406>`__
 
 Rick Tomas: Google Wave
 -----------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2238118>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2238118>`__
 
 Sim Harbert: Python Scripting on the Android
 --------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2235811>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2235811>`__
 
 Brandon Craig Rhodes: Nuts & Bolts, ctypes
 ------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2235275>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2235275>`__
 
 May
 ===
@@ -91,12 +91,12 @@ May
 Alfredo Deza: Testing and Test Coverage with Nose
 -------------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2225152>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2225152>`__
 
 Brandon Craig Rhodes: Introduction to PyCon filming
 ---------------------------------------------------
 
-* `Video of talk (blip.tv) <http://blip.tv/file/2221463>`_
+* `Video of talk (blip.tv) <http://blip.tv/file/2221463>`__
 
 January
 =======
@@ -104,11 +104,11 @@ January
 Steve Holden: The State of the Python Community
 -----------------------------------------------
 
-* `Video of talk (Google video) <http://video.google.com/videoplay?docid=1479560638540229801&amp;hl=en>`_
+* `Video of talk (Google video) <http://video.google.com/videoplay?docid=1479560638540229801&amp;hl=en>`__
 * `Steve's home page <http://holdenweb.blogspot.com/>`_
 
 Chris Johnson: Why People Choose Plone
 --------------------------------------
 
-* `Video of talk (Google video) <http://video.google.com/videoplay?docid=5451095915380975433&amp;hl=en>`_
+* `Video of talk (Google video) <http://video.google.com/videoplay?docid=5451095915380975433&amp;hl=en>`__
 * `Chris's home page <http://ifpeople.net/about/people/cjj>`_
