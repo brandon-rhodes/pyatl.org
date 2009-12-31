@@ -81,7 +81,7 @@
             <h2>Navigation</h2>
             &#9656;
             {% if pagename != "index" %}
-            <a href="{{ pathto('.', 1) }}">
+            <a href="{{ pathto('index.html', 1) }}">
               {% endif %}
               Home Page
               {% if pagename != "index" %}
@@ -89,11 +89,11 @@
             {% endif %}
             <br/>
             &#9656;
-            {% if pagename != "meetings/index" %}
-            <a href="{{ pathto('meetings/index.html', 1) }}">
+            {% if pagename != "meetings" %}
+            <a href="{{ pathto('meetings.html', 1) }}">
               {% endif %}
               Meeting Archives
-              {% if pagename != "meetings/index" %}
+              {% if pagename != "meetings" %}
             </a>
             {% endif %}
             <br/>

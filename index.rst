@@ -31,7 +31,7 @@ Other Information
 =================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   meetings/index
+   meetings
    bookclub
