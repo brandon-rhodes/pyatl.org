@@ -1,6 +1,9 @@
 # Makefile for Sphinx documentation
 #
 
+# We always build HTML when doing pyatl.org.
+html:
+
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
@@ -89,5 +92,5 @@ doctest:
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
-deploy:
+install: html
 	rsync -rlptv _build/html/ wf-rhodesmill:webapps/pyatl_org
