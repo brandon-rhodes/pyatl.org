@@ -88,22 +88,6 @@
             <br/>
             &#9656;
             {% if pagename != "bookclub" %}
-            <a href="{{ pathto('.', 1) }}">
-              {% endif %}
-              Book Club{% if pagename != "bookclub" %}</a>
-            {% endif %}
-            <br/>
-            &#9656;
-            {% if pagename != "meetings" %}
-            <a href="{{ pathto('meetings.html', 1) }}">
-              {% endif %}
-              Meeting Archives
-              {% if pagename != "meetings" %}
-            </a>
-            {% endif %}
-            <br/>
-            &#9656;
-            {% if pagename != "bookclub" %}
             <a href="{{ pathto('bookclub.html', 1) }}">
               {% endif %}
               Book Club
