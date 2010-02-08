@@ -114,6 +114,10 @@ div#main p {
 a.headerlink { color: white; text-decoration: none; }
 h2 a.headerlink { color: #740; text-decoration: none; }
 
+em {
+    font-style: italic;
+}
+
 /* Footer */
 
 #disclaimers a {
