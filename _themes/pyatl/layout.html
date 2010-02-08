@@ -83,9 +83,14 @@
             {% if pagename != "index" %}
             <a href="{{ pathto('index.html', 1) }}">
               {% endif %}
-              Home Page
-              {% if pagename != "index" %}
-            </a>
+              Home Page{% if pagename != "index" %}</a>
+            {% endif %}
+            <br/>
+            &#9656;
+            {% if pagename != "bookclub" %}
+            <a href="{{ pathto('.', 1) }}">
+              {% endif %}
+              Book Club{% if pagename != "bookclub" %}</a>
             {% endif %}
             <br/>
             &#9656;
@@ -110,9 +115,7 @@
             {% if pagename != "plone" %}
             <a href="{{ pathto('plone.html', 1) }}">
               {% endif %}
-              Atlanta Plone Group
-              {% if pagename != "plone" %}
-            </a>
+              Atlanta Plone Group{% if pagename != "plone" %}</a>
             {% endif %}
           </div>
           
