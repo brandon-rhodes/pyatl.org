@@ -28,11 +28,12 @@ Sources of Books
 We have arrangements with the publicists at several publishers of
 Python and general programming books, including `O'Reilly
 <http://oreilly.com/>`_, `Manning <http://www.manning.com/>`_,
-`Packt <http://www.packtpub.com/>`_, and `Addison-Wesley
-<http://www.informit.com/>`_.  They send review copies of books to the
-club organizers, who distribute them to members at meetings.  These
-copies are sent to us in good faith with the understanding that we
-will help with publicity by posting reviews online (see above).
+`Addison-Wesley <http://www.informit.com/>`_, `Packt
+<http://www.packtpub.com/>`_, and `Apress <http://www.apress.com/>`_.
+They send review copies of books to the club organizers, who
+distribute them to members at meetings.  These copies are sent to us
+in good faith with the understanding that we will help with publicity
+by posting reviews online (see above).
 
 In addition to the publisher review copies, some members have
 contributed copies of books from their own libraries.  These enter the
