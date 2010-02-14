@@ -81,28 +81,26 @@
             <h2>Navigation</h2>
             &#9656;
             {% if pagename != "index" %}
-            <a href="{{ pathto('index.html', 1) }}">
+            <a href="{{ pathto('.', 1) }}">
               {% endif %}
               Home Page{% if pagename != "index" %}</a>
             {% endif %}
             <br/>
             &#9656;
             {% if pagename != "bookclub" %}
-            <a href="{{ pathto('bookclub.html', 1) }}">
+            <a href="{{ pathto('bookclub', 1) }}">
               {% endif %}
-              Book Club
-              {% if pagename != "bookclub" %}
-            </a>
+              Book Club{% if pagename != "bookclub" %}</a>
             {% endif %}
             <br/>
             &#9656;
             {% if pagename != "plone" %}
-            <a href="{{ pathto('plone.html', 1) }}">
+            <a href="{{ pathto('plone', 1) }}">
               {% endif %}
               Atlanta Plone Group{% if pagename != "plone" %}</a>
             {% endif %}
           </div>
-          
+
           <div class="round meetup">
             <h2>Meetings and Events</h2>
             <p>
@@ -116,8 +114,7 @@
               <p>Python Atlanta on Meetup.com</p>
             </a>
             <p>
-              Many of our meetings are recorded and available
-              online.
+              Many of our meetings are recorded and available online.
             </p>
             <a href="http://pyatl.blip.tv/">
               <img id="bliptv" width="71" height="34"
