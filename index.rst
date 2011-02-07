@@ -1,3 +1,8 @@
+
+.. raw:: html
+
+   <iframe style="float: right" width="225" height="570" src="http://meetu.ps/y6Pp" frameborder="0"></iframe>
+
 ========
 Welcome!
 ========
